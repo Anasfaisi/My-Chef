@@ -7,7 +7,7 @@ function App() {
 
   return (
 <>
-<div style={{width:"70%",padding:"0 10rem"}}>
+<div style={{width:"100%",display:"flex",flexDirection:"column",alignItems:"center"}}>
 
 <Header />
 <IngredientInput />
